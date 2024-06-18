@@ -1,2 +1,2 @@
-# resume
-My Resume from Complete web Development Course
+# Weather App
+Project is live @ https://vaibhavjagtap9.github.io/Weather-App/
